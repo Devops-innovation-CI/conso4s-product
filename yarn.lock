@@ -6749,7 +6749,7 @@ __metadata:
     formidable: ^1.2.1
     fs-extra: ^10.1.0
     handlebars: ^4.7.7
-    helmet: ^6.0.0
+    helmet: ^6.1.5
     html-react-parser: ^3.0.4
     html-webpack-plugin: ^5.5.0
     i18next: ^22.0.5
@@ -10559,10 +10559,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"helmet@npm:^6.0.0":
-  version: 6.0.0
-  resolution: "helmet@npm:6.0.0"
-  checksum: 0dd89d5b77c5334e815f5d29376ca7af0ad1007136890f497be3455d9ed9734e7203e13d9931e29e4d2ced1c632c52440f16d2a02e8835fd8b8706a12052faad
+"helmet@npm:^6.1.5":
+  version: 6.1.5
+  resolution: "helmet@npm:6.1.5"
+  checksum: 58cc8f8715e2c486f3c7a58f89fcda3c9e83ab427bfe16d8486d8be53a681afc291f9900b9e60e5d42c63c25ece3da864a33cdd621a12f5a67cbc9046cff393d
   languageName: node
   linkType: hard
 
@@ -18923,13 +18923,14 @@ __metadata:
 
 "theme@file:./theme::locator=cezerin%40workspace%3A.":
   version: 1.0.0
-  resolution: "theme@file:./theme#./theme::hash=8bf52f&locator=cezerin%40workspace%3A."
+  resolution: "theme@file:./theme#./theme::hash=10ff76&locator=cezerin%40workspace%3A."
   dependencies:
     bulma: ^0.9.3
     rc-slider: ^9.7.5
     react-image-gallery: ^0.8.7
     react-image-lightbox: ^4.6.0
     react-lazyload: ^2.3.0
+  checksum: 611b288cdd472734555868e2e1fa11e6141a6729f2b48bfbe40f8c52ca8420fef60b8d5f97111f8250a83a81d1cd9f8e1707d4ca83cf7923904a32f7d3e782ee
   languageName: node
   linkType: hard
 
