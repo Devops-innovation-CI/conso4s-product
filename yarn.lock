@@ -4921,10 +4921,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/webpack-env@npm:^1.18.0":
-  version: 1.18.0
-  resolution: "@types/webpack-env@npm:1.18.0"
-  checksum: ecf4daa31cb37d474ac0ce058d83a3cadeb9881ca8107ae93c2299eaa9954943aae09b43e143c62ccbe4288a14db00c918c9debd707afe17c3998f873eaabc59
+"@types/webpack-env@npm:^1.18.1":
+  version: 1.18.1
+  resolution: "@types/webpack-env@npm:1.18.1"
+  checksum: 3173c069763e51a96565d602af7e6dac9d772ae4aa6f26cac187cbf599a7f0b88f790b4b050b9dbdb0485daed3061b4a337863f3b8ce66f8a4e51f75ad387c6a
   languageName: node
   linkType: hard
 
@@ -6720,7 +6720,7 @@ __metadata:
     "@types/react-router-dom": ^5.3.3
     "@types/sharp": ^0.31.0
     "@types/ua-parser-js": ^0.7.36
-    "@types/webpack-env": ^1.18.0
+    "@types/webpack-env": ^1.18.1
     "@typescript-eslint/eslint-plugin": ^5.43.0
     "@typescript-eslint/parser": ^5.43.0
     axios: ^1.1.3
@@ -18923,13 +18923,14 @@ __metadata:
 
 "theme@file:./theme::locator=cezerin%40workspace%3A.":
   version: 1.0.0
-  resolution: "theme@file:./theme#./theme::hash=8bf52f&locator=cezerin%40workspace%3A."
+  resolution: "theme@file:./theme#./theme::hash=10ff76&locator=cezerin%40workspace%3A."
   dependencies:
     bulma: ^0.9.3
     rc-slider: ^9.7.5
     react-image-gallery: ^0.8.7
     react-image-lightbox: ^4.6.0
     react-lazyload: ^2.3.0
+  checksum: 611b288cdd472734555868e2e1fa11e6141a6729f2b48bfbe40f8c52ca8420fef60b8d5f97111f8250a83a81d1cd9f8e1707d4ca83cf7923904a32f7d3e782ee
   languageName: node
   linkType: hard
 
