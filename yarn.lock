@@ -4267,12 +4267,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/dompurify@npm:^2.3.4, @types/dompurify@npm:^2.4.0":
+"@types/dompurify@npm:^2.3.4":
   version: 2.4.0
   resolution: "@types/dompurify@npm:2.4.0"
   dependencies:
     "@types/trusted-types": "*"
   checksum: b48cd81e997794ebc390c7c5bef1a67ec14a6f2f0521973e07e06af186c7583abe114d94d24868c0632b9573f5bd77131a4b76f3fffdf089ba99a4e53dd46c39
+  languageName: node
+  linkType: hard
+
+"@types/dompurify@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "@types/dompurify@npm:3.0.2"
+  dependencies:
+    "@types/trusted-types": "*"
+  checksum: dc017e16a46bcc77086af7d4dc5d2bf4102f16bf1a11b2937e90380da50e77716a2a608ff52990b1293250fefc2ad7593a1378fe07e3a7e21f200d702f0a7878
   languageName: node
   linkType: hard
 
@@ -6701,7 +6710,7 @@ __metadata:
     "@stripe/stripe-js": ^1.44.1
     "@tinymce/tinymce-react": ^4.2.0
     "@types/bcrypt": ^5.0.0
-    "@types/dompurify": ^2.4.0
+    "@types/dompurify": ^3.0.2
     "@types/formidable": 1.0.31
     "@types/fs-extra": ^9.0.13
     "@types/jsonwebtoken": ^8.5.9
@@ -6735,7 +6744,7 @@ __metadata:
     cross-env: ^7.0.3
     css-loader: ^6.7.2
     cssnano: ^5.1.14
-    dompurify: ^2.4.1
+    dompurify: ^3.0.5
     eslint: ^8.27.0
     eslint-config-airbnb: ^19.0.4
     eslint-config-prettier: ^8.5.0
@@ -8486,6 +8495,13 @@ __metadata:
   version: 2.4.1
   resolution: "dompurify@npm:2.4.1"
   checksum: 1169177465b3cbb25a44322937fba549f6c4e1a91b83245d144471be26619c835cccf0f8e20aa78c25ac11a06efd17cc1b9db9cacadceb78a4c08a1029eafee5
+  languageName: node
+  linkType: hard
+
+"dompurify@npm:^3.0.5":
+  version: 3.0.5
+  resolution: "dompurify@npm:3.0.5"
+  checksum: 2d9421570c833ce26ce7022955241749b646d41e8bf453f42ede9f22d0e98af482cedb7dfbf8129419eb48b351c1d677a08fc9f1cd91836ce7f6c1807a0676b2
   languageName: node
   linkType: hard
 
@@ -18923,13 +18939,14 @@ __metadata:
 
 "theme@file:./theme::locator=cezerin%40workspace%3A.":
   version: 1.0.0
-  resolution: "theme@file:./theme#./theme::hash=8bf52f&locator=cezerin%40workspace%3A."
+  resolution: "theme@file:./theme#./theme::hash=10ff76&locator=cezerin%40workspace%3A."
   dependencies:
     bulma: ^0.9.3
     rc-slider: ^9.7.5
     react-image-gallery: ^0.8.7
     react-image-lightbox: ^4.6.0
     react-lazyload: ^2.3.0
+  checksum: 611b288cdd472734555868e2e1fa11e6141a6729f2b48bfbe40f8c52ca8420fef60b8d5f97111f8250a83a81d1cd9f8e1707d4ca83cf7923904a32f7d3e782ee
   languageName: node
   linkType: hard
 
